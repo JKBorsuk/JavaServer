@@ -1,0 +1,304 @@
+{
+	"Ksiazki": [
+		{
+			"id": 1,
+			"nazwa": "Chrzest Ognia",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 2,
+			"nazwa": "Jaś i Małgosia",
+			"autor": "Wilhelm Karl Grimm"
+		},
+		{
+			"id": 3,
+			"nazwa": "Wojna światów",
+			"autor": "Herbert George Wells"
+		},
+		{
+			"id": 4,
+			"nazwa": "Afryka Kazika",
+			"autor": "Łukasz Wierzbicki"
+		},
+		{
+			"id": 5,
+			"nazwa": "Dziadek i niedźwiadek",
+			"autor": "Łukasz Wierzbicki"
+		},
+		{
+			"id": 6,
+			"nazwa": "Asiunia",
+			"autor": "Joanna Papuzińska"
+		},
+		{
+			"id": 7,
+			"nazwa": "Cukierku, ty łobuzie!",
+			"autor": "Waldemar Cichoń"
+		},
+		{
+			"id": 8,
+			"nazwa": "Czas Pogardy",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 9,
+			"nazwa": "Zemsta",
+			"autor": "Aleksander Fredro"
+		},
+		{
+			"id": 10,
+			"nazwa": "Detektyw Pozytywka",
+			"autor": "Grzegorz Kasdepke"
+		},
+		{
+			"id": 11,
+			"nazwa": "Dziewczynka z parku",
+			"autor": "Barbara Kosmowska"
+		},
+		{
+			"id": 12,
+			"nazwa": "Kapelusz Pani Wrony",
+			"autor": "Danuta Parlak"
+		},
+		{
+			"id": 13,
+			"nazwa": "O tym jak Julian Tuwim został poetą",
+			"autor": "Agnieszka Frączek"
+		},
+		{
+			"id": 14,
+			"nazwa": "Sposób na Elfa",
+			"autor": "Marcin Pałasz"
+		},
+		{
+			"id": 15,
+			"nazwa": "Baśnie (do wyboru)",
+			"autor": "Hans Christian Andersen"
+		},
+		{
+			"id": 16,
+			"nazwa": "Brzechwa dzieciom",
+			"autor": "Jan Brzechwa"
+		},
+		{
+			"id": 17,
+			"nazwa": "Zaczarowana zagroda",
+			"autor": "Czesław Centkiewicz"
+		},
+		{
+			"id": 18,
+			"nazwa": "Dzieci z Bullerbyn",
+			"autor": "Astrid Lindgren"
+		},
+		{
+			"id": 19,
+			"nazwa": "Doktor Dolittle i jego zwierzęta",
+			"autor": "Hugh Lofting"
+		},
+		{
+			"id": 20,
+			"nazwa": "Drzewo do samego nieba",
+			"autor": "Maria Terlikowska"
+		},
+		{
+			"id": 21,
+			"nazwa": "Karolcia",
+			"autor": "Maria Krüger Kruger"
+		},
+		{
+			"id": 22,
+			"nazwa": "Kto z was chciałby rozweselić pechowego nosorożca",
+			"autor": "Leszek Kołakowski"
+		},
+		{
+			"id": 23,
+			"nazwa": "Najpiękniejsze wiersze",
+			"autor": "Danuta Wawiłow"
+		},
+		{
+			"id": 24,
+			"nazwa": "O krakowskich psach i kleparskich kotach. Polskie miasta w baśniach i legendach",
+			"autor": "Barbara Tylicka"
+		},
+		{
+			"id": 25,
+			"nazwa": "O psie, który jeździł koleją",
+			"autor": "Roman Pisarski"
+		},
+		{
+			"id": 26,
+			"nazwa": "Oto jest Kasia",
+			"autor": "Mira Jaworczakowa"
+		},
+		{
+			"id": 27,
+			"nazwa": "Pamiętnik Czarnego Noska",
+			"autor": "Janina Porazińska"
+		},
+		{
+			"id": 28,
+			"nazwa": "Wiersze dla dzieci",
+			"autor": "Julian Tuwim"
+		},
+		{
+			"id": 29,
+			"nazwa": "Dywizjon 303",
+			"autor": "Arkady Fiedler"
+		},
+		{
+			"id": 30,
+			"nazwa": "Krzyżacy",
+			"autor": "Henryk Sienkiewicz"
+		},
+		{
+			"id": 31,
+			"nazwa": "Monte Cassino (fragmenty)",
+			"autor": "Melchior Wańkowicz"
+		},
+		{
+			"id": 32,
+			"nazwa": "Oskar i pani Róża",
+			"autor": "Eric-Emmanuel Schmitt"
+		},
+		{
+			"id": 33,
+			"nazwa": "Pamiętnik z powstania warszawskiego (fragmenty)",
+			"autor": "Miron Białoszewski"
+		},
+		{
+			"id": 34,
+			"nazwa": "Pozłacana rybka",
+			"autor": "Barbara Kosmowska"
+		},
+		{
+			"id": 35,
+			"nazwa": "Przekroczyć próg nadziei (fragmenty)",
+			"autor": "Jan Paweł II"
+		},
+		{
+			"id": 36,
+			"nazwa": "Wspomnienia wojenne 22 IX 1939–5 IV 1945 (fragmenty)",
+			"autor": "Karolina Lanckorońska"
+		},
+		{
+			"id": 37,
+			"nazwa": "Stary człowiek i morze",
+			"autor": "Ernest Hemingway"
+		},
+		{
+			"id": 38,
+			"nazwa": "Stowarzyszenie Umarłych Poetów",
+			"autor": "Nancy H. Kleinbaum"
+		},
+		{
+			"id": 39,
+			"nazwa": "Wybrana powieść kryminalna",
+			"autor": "Agatha Christie"
+		},
+		{
+			"id": 40,
+			"nazwa": "Artysta",
+			"autor": "Sławomir Mrożek"
+		},
+		{
+			"id": 41,
+			"nazwa": "Balladyna",
+			"autor": "Juliusz Słowacki"
+		},
+		{
+			"id": 42,
+			"nazwa": "Kamienie na szaniec",
+			"autor": "Aleksander Kamiński"
+		},
+		{
+			"id": 43,
+			"nazwa": "Mały Książę",
+			"autor": "Antoine de Saint-Exupéry"
+		},
+		{
+			"id": 44,
+			"nazwa": "Opowieść wigilijna",
+			"autor": "Charles Dickens"
+		},
+		{
+			"id": 45,
+			"nazwa": "Reduta Ordona",
+			"autor": "Adam Mickiewicz"
+		},
+		{
+			"id": 46,
+			"nazwa": "Śmierć Pułkownika",
+			"autor": "Adam Mickiewicz"
+		},
+		{
+			"id": 47,
+			"nazwa": "Świtezianka",
+			"autor": "Adam Mickiewicz"
+		},
+		{
+			"id": 48,
+			"nazwa": "Syzyfowe prace",
+			"autor": "Stefan Żeromski"
+		},
+		{
+			"id": 49,
+			"nazwa": "Quo vadis",
+			"autor": "Henryk Sienkiewicz"
+		},
+		{
+			"id": 50,
+			"nazwa": "Latarnik",
+			"autor": "Henryk Sienkiewicz"
+		},
+		{
+			"id": 51,
+			"nazwa": "Żona modna",
+			"autor": "Ignacy Krasicki"
+		},
+		{
+			"id": 52,
+			"nazwa": "Miecz przeznaczenia",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 53,
+			"nazwa": "Krew Elfów",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 54,
+			"nazwa": "Wieża Jaskółki",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 55,
+			"nazwa": "Pani Jeziora",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 56,
+			"nazwa": "Sezon Burz",
+			"autor": "Andrzej Sapkowski"
+		},
+		{
+			"id": 57,
+			"nazwa": "Metro 2033",
+			"autor": "Dmitrij Głuchowski"
+		},
+		{
+			"id": 58,
+			"nazwa": "Metro 2034",
+			"autor": "Dmitrij Głuchowski"
+		},
+		{
+			"id": 59,
+			"nazwa": "Metro 2035",
+			"autor": "Dmitrij Głuchowski"
+		},
+		{
+			"id": 60,
+			"nazwa": "Ostatnie Życzenie",
+			"autor": "Andrzej Sapkowski"
+		}
+	]
+}
